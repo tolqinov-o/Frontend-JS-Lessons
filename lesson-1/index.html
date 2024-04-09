@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1 - JavaScript dars || T.Oqilbek</title>
+    <!-- <script defer src="index.js"></script> -->
+</head>
+<body>
+
+    <h1 align="center">JavaScriptni HTMLga bog'lash</h1>
+    <hr> <br> <br>
+
+    <!-- 
+        <script> - teg ichida kod yozish uchun ishlatiladi. Alomatlari:
+
+            "src" - dasturlash kodlari yozilgan fayl manzili ko'rsatiladi;
+            "async" - birgalikda bajarishni ta'minlaydi;
+            "type" - bajarilgan faylning tavsif-turi;
+            "defer" - html sahifa to'liq yuklanib bo'lgandan song src da korsatilgan fayl ishga tushadi.
+            "language" - dasurlash kodlari qaysi tilda yozilganini korsatadi. Qiymatlari:
+
+                "JavaScript" - odatiy qiymat
+                "JScript" - microsoft kompaniyasidan taqdim etilgan.
+                "VBS || VBScript" - microsoft kompaniyasining visual basic asosidagi IE uchun chiqarilgan til.
+    -->
+
+    <h1 align="center">O'zgaruvchi va o'zgarmaslar</h1>
+
+    <!-- 
+     
+    -->
+
+    <script>
+        alert("Sahifa yuklanib bo'ldi.");
+
+        let home = 5; //ozgarmas ozgaruvchi
+        const end = 10; //ozgarmas
+        var center = 7; //ozgaruvchi
+
+        console.log(home);
+        home = 10;
+
+        console.log(end);
+        // end = 5;  xato
+
+        console.log(center);
+        center = 8;
+
+        console.log(home, center);
+    </script>
+    
+</body>
+</html>
