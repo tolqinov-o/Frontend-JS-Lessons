@@ -8,6 +8,7 @@ My_Frontend || JavaScript || 10 - Lessons
  - [Lesson - 2](https://github.com/tolqinov-o/Frontend-JS-Lessons/tree/main/lesson-2)
  - [Lesson - 3](https://github.com/tolqinov-o/Frontend-JS-Lessons/tree/main/lesson-3)
  - [Lesson - 4](https://github.com/tolqinov-o/Frontend-JS-Lessons/tree/main/lesson-4)
+ - [Lesson - 5](https://github.com/tolqinov-o/Frontend-JS-Lessons/tree/main/lesson-5)
 
 ## Tech Stack
 
